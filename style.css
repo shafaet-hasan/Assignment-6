@@ -1,0 +1,5 @@
+.category-btn.active {
+    background-color: #74ebf3 !important; /* Change the background */
+    color: white !important;    
+    border: 1px solid #3498db !important; /* Optional border */
+}
